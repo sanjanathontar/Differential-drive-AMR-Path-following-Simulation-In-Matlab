@@ -15,17 +15,7 @@ MATLAB simulation of a differential-drive AMR that follows user-defined waypoint
 
 The main simulation code is available in:
 
-`matlab/amr_path_following.m`
-
-## Simulation
-
-### Path Following
-
-![AMR Simulation](images/simulation.png)
-
-## Video Demonstration
-
-[Watch the AMR Simulation Video](YOUR_VIDEO_LINK_HERE)
+`diffrential.m`
 
 ## Future Scope
 
